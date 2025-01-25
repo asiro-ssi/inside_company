@@ -36,7 +36,7 @@ html,body {
 body {
 	font-family: "ヒラギノ丸ゴ Pro", "Hiragino Maru Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;	/*フォント種類*/
 	-webkit-text-size-adjust: none;
-	background: #fff;	/*背景色*/
+	background: #def2f5;	/*背景色*/
 	color: #777;		/*文字色*/
 	line-height: 2;		/*行間*/
 	animation: opa1 0.3s 0.5s both;	/*0.5秒の間だけ非表示にし、その後0.3秒かけてフェードイン表示。上部のメインメニューのデフォルトが一瞬見えてしまうのを回避する為の応急措置です。*/
