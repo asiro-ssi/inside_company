@@ -152,3 +152,7 @@ $(function() {
 		$('.openclose').not(this).next().slideUp();
 	});
 });
+
+if (!document.referrer) {
+  top.location.href = "https://asiro-ssi.github.io/inside_company/";
+}
