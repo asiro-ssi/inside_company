@@ -43,7 +43,7 @@ input {
 
 form {
   text-align: center;
-  margin: calc(50vh - 100px) auto 0;
+  margin: calc(35vh - 100px) auto 0;
   max-width: 400px;
   width: 90vw;
 }
