@@ -363,6 +363,7 @@ main.column .main {
 	main.column .sub {
 		order: 1;		/*並び順。数字の小さい順番に表示されます。*/
 		width: 230px;	/*幅*/
+		margin-top: 100px;
 	}
 
 	}/*画面幅900px以上の追加指定ここまで*/
