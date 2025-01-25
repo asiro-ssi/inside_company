@@ -354,6 +354,7 @@ main.column .main {
 	
 	/*2カラムの中にある.main要素（頭にドットがない「main」とは異なるので注意して下さい）*/
 	main.column .main {
+		margin-top: 100px;
 		margin-bottom: 0;
 		order: 2;					/*並び順。数字の小さい順番に表示されます。*/
 		width: calc(100% - 260px);	/*幅。ここの280pxの数字は下の.subの幅(230px)と、左右ブロックの間の余白(30px)を追加したものです。*/
